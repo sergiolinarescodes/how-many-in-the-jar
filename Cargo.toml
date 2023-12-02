@@ -1,5 +1,5 @@
 [package]
-name = "break-bevy"
+name = "how-many"
 version = "0.1.0"
 edition = "2021"
 
@@ -7,3 +7,4 @@ edition = "2021"
 
 [dependencies]
 bevy = "0.12"
+bevy_xpbd_2d = "0.3"
